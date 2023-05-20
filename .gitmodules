@@ -1,0 +1,3 @@
+[submodule "Chapter 1/Code/Chapter01-vscode/HelloCS"]
+	path = Chapter 1/Code/Chapter01-vscode/HelloCS
+	url = https://github.com/joetid09/C--and-.NET-6
